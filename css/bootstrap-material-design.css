@@ -2706,7 +2706,7 @@ fieldset[disabled] .navbar .btn-link:focus {
 @media (max-width: 1199px) {
   .navbar .navbar-brand {
     height: 70px;
-    padding: 0px 15px;
+    padding: 0px;
   }
   .navbar .navbar-form {
     margin-top: 10px;
